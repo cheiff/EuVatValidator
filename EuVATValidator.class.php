@@ -7,6 +7,8 @@
 * 
 **/
 
+namespace EuVATValidator;
+
 class EuVATValidator
 {
 	// The address of the API
